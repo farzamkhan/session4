@@ -1,5 +1,4 @@
 import hashlib
-
 my_input = None
 while my_input != "exit" :
     my_input = input ("Enter your text:")
